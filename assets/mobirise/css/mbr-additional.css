@@ -1181,58 +1181,52 @@ a {
 .cid-sKH6xuIXO0 .mbr-section-title {
   color: #fafafa;
 }
-.cid-sK1HQk6iGN {
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+.cid-sLd7A2Mmt6 {
+  padding-top: 9rem;
+  padding-bottom: 9rem;
+  background-color: #232323;
 }
-.cid-sK1HQk6iGN .icons-media-container {
-  display: flex;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  padding-top: 4rem;
+.cid-sLd7A2Mmt6 .card-box {
+  z-index: 10;
+  position: relative;
 }
-.cid-sK1HQk6iGN .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
+@media (min-width: 1500px) {
+  .cid-sLd7A2Mmt6 .container {
+    max-width: 1400px;
+  }
 }
-.cid-sK1HQk6iGN .icons-media-container .icon-block {
-  padding-bottom: 1rem;
+.cid-sLd7A2Mmt6 .card {
+  margin: auto;
 }
-.cid-sK1HQk6iGN .mbr-text {
-  color: #ffffff;
+.cid-sLd7A2Mmt6 .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #4479d9;
+  margin-bottom: 2rem;
 }
-.cid-sK1HQk6iGN .card {
-  padding-bottom: 1.5rem;
-}
-.cid-sK1HQk6iGN .card-wrapper {
-  min-height: 220px;
-  transition: all 0.3s;
-  border-radius: 4px;
-  padding: 1rem;
+.cid-sLd7A2Mmt6 .card-wrapper {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.cid-sK1HQk6iGN .card-wrapper .mbr-iconfont {
-  display: block;
-  font-size: 4rem;
-  color: #ffffff;
-  margin-bottom: 2rem;
+.cid-sLd7A2Mmt6 .row {
+  justify-content: center;
 }
-.cid-sK1HQk6iGN .card-wrapper .card-title {
-  color: #ffffff;
+.cid-sLd7A2Mmt6 .card-title,
+.cid-sLd7A2Mmt6 .card-box {
+  color: #bbbbbb;
+}
+.cid-sLd7A2Mmt6 H3 {
+  color: #bbbbbb;
 }
 .cid-sK8o05k5dT {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-color: #353535;
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-sK8o05k5dT .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 1;
+  background-color: #232323;
+  opacity: 0.8;
 }
 .cid-sK8o05k5dT form .mbr-section-btn {
   text-align: center;
